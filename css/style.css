@@ -1,0 +1,12 @@
+#info{
+    color: red;
+    font-size: 5rem;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    transition: all 4s;
+}
+
+#info:hover{
+    color:blue;
+    font-size: 3rem;
+}
